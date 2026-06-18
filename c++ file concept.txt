@@ -1,0 +1,7 @@
+c++ file concept  
+
+
+int -> +ve,0,-ve ;example:48,-48
+float->half decimal numberds;ex->48.88
+{header filr(#include<iomanip>)
+double->full decimal number}
