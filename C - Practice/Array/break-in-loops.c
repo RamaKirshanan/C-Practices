@@ -3,6 +3,7 @@ int main()
 //kiii
 {
     int i,a,sum=0;
+    // new kgkhkhkjhjkhk kjhkjh
     for(i=0;i<5;i++)
     {
         printf("enter a:");
