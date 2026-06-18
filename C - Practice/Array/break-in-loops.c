@@ -12,3 +12,7 @@ int main()
         }sum=sum+a;
     }printf("sum=%d",sum);
 }
+
+// git add .
+// git commit -m "commit message"
+// git push
