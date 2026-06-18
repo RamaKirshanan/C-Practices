@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-
+//kiii
 {
     int i,a,sum=0;
     for(i=0;i<5;i++)
