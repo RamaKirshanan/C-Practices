@@ -74,5 +74,15 @@ alothan... okkkkkkkkk
 
 ipo 
 
+
+pathiya yellae git hub vanthirucha,,,
+
+gitgub la illa lines yellan ipdi side la color kattum...
+
+
+
+ok va.. intha lines yellam git la illa... so nama push pannanum nu meaning....
+
+enaga inorukka push pannu.... 
 */
 
